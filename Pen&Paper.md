@@ -1,3 +1,9 @@
+Name: Amirreza Alasti
+Student No.: 10074412
+Name: Efe Erdal
+Student No.: 10011212
+Name:Yücel Celik
+Student No.:10062920
 # Questions and Answers
 ## 1. VAE vs. Diffusion Models
 
